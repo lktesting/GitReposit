@@ -60,7 +60,7 @@ class Person
 		setAge(30);
 		setAcnt_no(01);
 		setBalance(100000.50);
-		
+		System.out.println("user 2 change1");
 		System.out.println("name:" + getName() + " age:" +  getAge() + " account number:" + getAcnt_no() + " account blnc:" + getBalance() );
 		
 	}
